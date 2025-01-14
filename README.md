@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: attempting to divide by zero. The `bug.ada` file contains code that will raise a `Constraint_Error` exception.  The `bugSolution.ada` file shows how to avoid this error using exception handling.
